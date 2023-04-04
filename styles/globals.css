@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    @apply box-border
+}
 
 body{
     @apply text-lg;
